@@ -1,2 +1,3 @@
 The detailed result can be found below, notice in the table, 1 is ARC SEM130FS, 2 is OpenTitan and 3 is the Generic Computer Architecture with Example Hardware Security features, the file is called list.pdf
- Notice the current public documentation has a section called Secure Hardware Design Guidelines, which includes 15 security recommendations,  I have marked those recommendationswith * in the Table 2.
+
+Notice the current public documentation has a section called Secure Hardware Design Guidelines, which includes 15 security recommendations,  I have marked those recommendationswith * in the Table 2.
